@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["opentok_server"] = [{"text":"impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.55.0/std/error/trait.Error.html\" title=\"trait std::error::Error\">Error</a> for <a class=\"enum\" href=\"opentok_server/enum.OpenTokError.html\" title=\"enum opentok_server::OpenTokError\">OpenTokError</a>","synthetic":false,"types":["opentok_server::OpenTokError"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

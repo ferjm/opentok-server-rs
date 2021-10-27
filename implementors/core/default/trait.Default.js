@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["opentok_server"] = [{"text":"impl&lt;'a&gt; <a class=\"trait\" href=\"https://doc.rust-lang.org/1.55.0/core/default/trait.Default.html\" title=\"trait core::default::Default\">Default</a> for <a class=\"struct\" href=\"opentok_server/struct.SessionOptions.html\" title=\"struct opentok_server::SessionOptions\">SessionOptions</a>&lt;'a&gt;","synthetic":false,"types":["opentok_server::SessionOptions"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
